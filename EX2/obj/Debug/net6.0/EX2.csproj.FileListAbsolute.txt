@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.AssemblyInfo.cs
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\bin\Debug\net6.0\EX2.exe
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\bin\Debug\net6.0\EX2.deps.json
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\bin\Debug\net6.0\EX2.runtimeconfig.json
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\bin\Debug\net6.0\EX2.dll
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\bin\Debug\net6.0\EX2.pdb
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.dll
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\refint\EX2.dll
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.pdb
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\EX2.genruntimeconfig.cache
+C:\Users\1\Desktop\GeekBrains\HW Khazhbanova 3110\Seminar3\EX2\obj\Debug\net6.0\ref\EX2.dll
